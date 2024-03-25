@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thomasbernhard-dev a Developer
 - 👀 I’m interested in AI, Omniverse, Python, Mojo and LLMs
-- 🌱 I’m currently learning Langchain and Mojo
-- 💞️ I’m looking to collaborate on crazy projects
+- 🌱 I’m currently developing AI assistants and LLM OS
 - 📫 How to reach me: mr_thomas_bernhard@web.de
 
 <!---
